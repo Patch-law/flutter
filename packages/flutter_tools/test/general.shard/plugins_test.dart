@@ -1354,7 +1354,7 @@ version: 1.0.0
 dependencies:
   url_launcher: ^1.0.0
   user_selected_url_launcher_implementation: ^1.0.0
-    ''', logger: BufferLogger.test())!;
+    ''', logger: BufferLogger.test());
 
             flutterProject.manifest = manifest;
             flutterProject.isModule = true;
@@ -1627,7 +1627,7 @@ version: 1.0.0
 dependencies:
   url_launcher: ^1.0.0
   user_selected_url_launcher_implementation: ^1.0.0
-    ''', logger: BufferLogger.test())!;
+    ''', logger: BufferLogger.test());
 
           flutterProject.manifest = manifest;
 
@@ -1700,7 +1700,7 @@ version: 1.0.0
 dependencies:
   url_launcher: ^1.0.0
   user_selected_url_launcher_implementation: ^1.0.0
-    ''', logger: BufferLogger.test())!;
+    ''', logger: BufferLogger.test());
 
           flutterProject.manifest = manifest;
 
